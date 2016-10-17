@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6D05A926-C295-4B61-AD79-D63C3CB65EB4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ModalFromTab</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1E2AB03F-F847-4DF0-851A-9E6C45333D55</key>
+		<string>ssh://ghe.amb.ca.local/native-bootcamp/native-bootcamp-ios.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>before/day2/extra.1/ModalFromTab/ModalFromTab.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1E2AB03F-F847-4DF0-851A-9E6C45333D55</key>
+		<string>../../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://ghe.amb.ca.local/native-bootcamp/native-bootcamp-ios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1E2AB03F-F847-4DF0-851A-9E6C45333D55</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1E2AB03F-F847-4DF0-851A-9E6C45333D55</string>
+			<key>IDESourceControlWCCName</key>
+			<string>native-bootcamp-ios</string>
+		</dict>
+	</array>
+</dict>
+</plist>
