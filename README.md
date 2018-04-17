@@ -20,7 +20,7 @@
 
 ```
 git clone 'Forkしたリポジトリ'
-git remote add upstream git@ghe.ca-tools.org:natibootcamp/natibootcamp-ios.git
+git remote add upstream git@ghe.xxx.org:natibootcamp/natibootcamp-ios.git
 git fetch upstream
 git checkout -b work
 ```
